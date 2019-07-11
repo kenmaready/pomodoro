@@ -1,0 +1,17 @@
+.my-centered {
+    text-align:center;
+}
+
+.my-control {
+    color: orange;
+    font-size: 3em;
+}
+
+.my-control:hover {
+    cursor: pointer;
+    color: gray;
+}
+
+.timer {
+    font-family: monospace;
+}
